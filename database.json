@@ -1,0 +1,234 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville",
+            "address": "101 Music Row"
+        },
+        {
+            "id": 2,
+            "name": "Knoxville",
+            "address": "102 Gay Street"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Ralph",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Sarah",
+            "locationId": 2
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Taddeusz"
+        },
+        {
+            "id": 2,
+            "name": "Katherina"
+        },
+        {
+            "id": 3,
+            "name": "Jae"
+        },
+        {
+            "id": 4,
+            "name": "Link"
+        },
+        {
+            "id": 5,
+            "name": "Tania"
+        },
+        {
+            "id": 6,
+            "name": "Tori"
+        },
+        {
+            "id": 7,
+            "name": "Odilia"
+        },
+        {
+            "id": 8,
+            "name": "Cristine"
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "customerId": 1,
+            "productId": 2
+        },
+        {
+            "id": 2,
+            "customerId": 7,
+            "productId": 7
+        },
+        {
+            "id": 3,
+            "customerId": 8,
+            "productId": 4
+        },
+        {
+            "id": 4,
+            "customerId": 4,
+            "productId": 2
+        },
+        {
+            "id": 5,
+            "customerId": 3,
+            "productId": 7
+        },
+        {
+            "id": 6,
+            "customerId": 8,
+            "productId": 3
+        },
+        {
+            "id": 7,
+            "customerId": 3,
+            "productId": 1
+        },
+        {
+            "id": 8,
+            "customerId": 6,
+            "productId": 3
+        },
+        {
+            "id": 9,
+            "customerId": 7,
+            "productId": 1
+        },
+        {
+            "id": 10,
+            "customerId": 5,
+            "productId": 8
+        },
+        {
+            "id": 11,
+            "customerId": 8,
+            "productId": 8
+        },
+        {
+            "id": 12,
+            "customerId": 2,
+            "productId": 5
+        },
+        {
+            "id": 13,
+            "customerId": 4,
+            "productId": 5
+        },
+        {
+            "id": 14,
+            "customerId": 5,
+            "productId": 2
+        },
+        {
+            "id": 15,
+            "customerId": 8,
+            "productId": 6
+        },
+        {
+            "id": 16,
+            "customerId": 4,
+            "productId": 4
+        },
+        {
+            "id": 17,
+            "customerId": 2,
+            "productId": 8
+        },
+        {
+            "id": 18,
+            "customerId": 1,
+            "productId": 4
+        },
+        {
+            "id": 19,
+            "customerId": 2,
+            "productId": 7
+        },
+        {
+            "id": 20,
+            "customerId": 6,
+            "productId": 6
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Peanut Butter Truffle",
+            "productTypeId": 2,
+            "price": 3.19
+        },
+        {
+            "id": 2,
+            "name": "Sour Patch Kids",
+            "productTypeId": 3,
+            "price": 3.68
+        },
+        {
+            "id": 3,
+            "name": "Crunch Bar",
+            "productTypeId": 4,
+            "price": 1.72
+        },
+        {
+            "id": 4,
+            "name": "Skittles",
+            "productTypeId": 5,
+            "price": 1.03
+        },
+        {
+            "id": 5,
+            "name": "Hersey's Kiss",
+            "productTypeId": 2,
+            "price": 3.88
+        },
+        {
+            "id": 6,
+            "name": "Fudge Square",
+            "productTypeId": 2,
+            "price": 3.82
+        },
+        {
+            "id": 7,
+            "name": "Jolly Rancher",
+            "productTypeId": 1,
+            "price": 2.01
+        },
+        {
+            "id": 8,
+            "name": "Livesavers",
+            "productTypeId": 1,
+            "price": 1.55
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "type": "Chocolates"
+        },
+        {
+            "id": 3,
+            "type": "Gummies"
+        },
+        {
+            "id": 4,
+            "type": "Candy Bars"
+        },
+        {
+            "id": 5,
+            "type": "Bite Size"
+        }
+    ]
+}
