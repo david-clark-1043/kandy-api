@@ -19,14 +19,6 @@
       "fullTimeStatus": false,
       "rate": 5,
       "id": 1
-    },
-    {
-      "name": "h",
-      "locationId": 1,
-      "managerStatus": false,
-      "fullTimeStatus": true,
-      "rate": 6,
-      "id": 2
     }
   ],
   "customers": [
@@ -44,99 +36,29 @@
       "productId": 2
     },
     {
-      "id": 2,
-      "customerId": 7,
-      "productId": 7
-    },
-    {
-      "id": 3,
-      "customerId": 8,
-      "productId": 4
-    },
-    {
-      "id": 4,
-      "customerId": 4,
-      "productId": 2
-    },
-    {
-      "id": 5,
-      "customerId": 3,
-      "productId": 7
-    },
-    {
-      "id": 6,
-      "customerId": 8,
-      "productId": 3
-    },
-    {
-      "id": 7,
-      "customerId": 3,
-      "productId": 1
-    },
-    {
-      "id": 8,
-      "customerId": 6,
-      "productId": 3
-    },
-    {
-      "id": 9,
-      "customerId": 7,
-      "productId": 1
-    },
-    {
-      "id": 10,
-      "customerId": 5,
-      "productId": 8
-    },
-    {
-      "id": 11,
-      "customerId": 8,
-      "productId": 8
-    },
-    {
-      "id": 12,
-      "customerId": 2,
-      "productId": 5
-    },
-    {
-      "id": 13,
-      "customerId": 4,
-      "productId": 5
-    },
-    {
-      "id": 14,
-      "customerId": 5,
-      "productId": 2
-    },
-    {
-      "id": 15,
-      "customerId": 8,
-      "productId": 6
-    },
-    {
-      "id": 16,
-      "customerId": 4,
-      "productId": 4
-    },
-    {
-      "id": 17,
-      "customerId": 2,
-      "productId": 8
-    },
-    {
-      "id": 18,
       "customerId": 1,
-      "productId": 4
+      "productId": 7,
+      "id": 2
     },
     {
-      "id": 19,
-      "customerId": 2,
-      "productId": 7
+      "customerId": 1,
+      "productId": 8,
+      "id": 3
     },
     {
-      "id": 20,
-      "customerId": 6,
-      "productId": 6
+      "customerId": 1,
+      "productId": 7,
+      "id": 4
+    },
+    {
+      "customerId": 1,
+      "productId": 7,
+      "id": 5
+    },
+    {
+      "customerId": 1,
+      "productId": 7,
+      "id": 6
     }
   ],
   "products": [
